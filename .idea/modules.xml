@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Business/JavaFX-Automation-business.iml" filepath="$PROJECT_DIR$/Business/JavaFX-Automation-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Persistence/JavaFX-Automation-persistence.iml" filepath="$PROJECT_DIR$/Persistence/JavaFX-Automation-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFXApp.iml" filepath="$PROJECT_DIR$/JavaFXApp.iml" />
+    </modules>
+  </component>
+</project>

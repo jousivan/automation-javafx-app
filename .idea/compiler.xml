@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaFX-Automation-persistence" />
+        <module name="JavaFX-Automation-business" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaFX-Automation-business" target="1.5" />
+      <module name="JavaFX-Automation-persistence" target="1.5" />
+      <module name="JavaFXApp" target="1.8" />
+      <module name="SisagEOAutomation" target="1.8" />
+      <module name="SisagEOAutomation-device" target="1.8" />
+      <module name="SisagEOAutomation-framework" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
